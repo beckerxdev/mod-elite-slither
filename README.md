@@ -1,4 +1,4 @@
-# MOD ELITE 1.0
+# MOD ELITE 1.0 (TESTES)
 
 Cliente nativo (C++17, GLFW + Dear ImGui + OpenGL 3) para Slither.io, inspirado no V.Lither 2.5.
 Identidade visual própria (nenhum recurso do V.Lither foi copiado). Arquivos originais do V.Lither não foram alterados.
