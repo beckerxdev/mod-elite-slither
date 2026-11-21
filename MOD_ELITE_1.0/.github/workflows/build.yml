@@ -17,4 +17,3 @@ jobs:
         with:
           name: MOD_ELITE_1.0_windows_x64
           path: build/Release/MOD_ELITE_1.0.exe
-
